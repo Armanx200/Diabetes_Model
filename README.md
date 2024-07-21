@@ -69,10 +69,6 @@ This project requires the following Python packages:
 
 These dependencies are listed in `requirements.txt`.
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
 Feel free to reach out if you have any questions or suggestions:
